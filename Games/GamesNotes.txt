@@ -1,0 +1,3 @@
+Game:
+Game splits into multplie possibilities (take MEX)
+Game has multiple subgames (take XOR
